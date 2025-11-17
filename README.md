@@ -1,12 +1,4 @@
-# Astro TechPeople Blog
-
-A tech blog built with Astro collections, Markdown & TypeScript. You can view the live demo [here](https://astro-blog-flame.vercel.app/)
-
-<img src="/public/images/screen.png" />
-
-This project is from the Traversy Media members-only course - [Astro Quick Start](https://www.traversymedia.com/astro-quick-start)
-
-The HTML files are available in the `blog-theme` folder. There is no CSS as we use all Tailwind classes.
+# Ameyaa-Astro-blog
 
 ## Usage
 
